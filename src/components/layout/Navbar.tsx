@@ -17,8 +17,8 @@ const Navbar = () => {
   return (
     <header 
       className={cn(
-        "fixed top-0 w-full z-50 transition-all duration-300",
-        isScrolled ? "bg-background/95 backdrop-blur-sm shadow-sm py-2" : "bg-transparent py-5"
+        "fixed top-0 w-full z-50 transition-all duration-300 bg-white",
+        isScrolled ? "shadow-sm py-2" : "py-5"
       )}
     >
       <div className="container mx-auto px-4 md:px-6">
@@ -65,7 +65,7 @@ const Navbar = () => {
       
       {/* Mobile menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden bg-background/95 backdrop-blur-sm shadow-md">
+        <div className="md:hidden bg-white shadow-md">
           <div className="px-4 py-4 space-y-4">
             <a href="#" className="block" onClick={() => setMobileMenuOpen(false)}>HOME</a>
             <a href="#about" className="block" onClick={() => setMobileMenuOpen(false)}>ABOUT</a>
