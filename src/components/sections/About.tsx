@@ -29,15 +29,15 @@ const About = () => {
           <div className="order-1 md:order-2 grid grid-cols-2 gap-4">
             <div className="col-span-2">
               <img 
-                src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1740" 
-                alt="Artistic performance" 
+                src="https://images.unsplash.com/photo-1460723237483-7a6dc9d0b212?auto=format&fit=crop&q=80&w=1740" 
+                alt="Ballet performance on stage" 
                 className="w-full h-80 object-cover"
               />
             </div>
             <div className="col-span-1">
               <img 
-                src="https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&q=80&w=1740" 
-                alt="Event production" 
+                src="https://images.unsplash.com/photo-1596377761548-0fd23585d431?auto=format&fit=crop&q=80&w=1740" 
+                alt="Theater performance" 
                 className="w-full h-48 object-cover"
               />
             </div>

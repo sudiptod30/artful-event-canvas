@@ -9,8 +9,8 @@ const Hero = () => {
       {/* Background image with overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1473177104440-ffee2f376098?auto=format&fit=crop&q=80&w=2731" 
-          alt="Elegant venue setting" 
+          src="https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&q=80&w=2731" 
+          alt="Symphony orchestra performance" 
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-richblack/60"></div>

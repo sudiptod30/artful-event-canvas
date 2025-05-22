@@ -16,7 +16,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 1,
     title: 'Symphony Under the Stars',
     category: 'music',
-    image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1740',
+    image: 'https://images.unsplash.com/photo-1507676385008-e7fb562d11f8?auto=format&fit=crop&q=80&w=1740',
     clientName: 'National Symphony Orchestra',
     location: 'Central Park, New York'
   },
@@ -24,7 +24,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 2,
     title: 'Contemporary Dance Gala',
     category: 'dance',
-    image: 'https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&q=80&w=1740',
+    image: 'https://images.unsplash.com/photo-1545959570-a94084071b5d?auto=format&fit=crop&q=80&w=1740',
     clientName: 'Modern Dance Collective',
     location: 'Lincoln Center'
   },
@@ -32,7 +32,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 3,
     title: 'Shakespeare in the Modern Era',
     category: 'theater',
-    image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1740',
+    image: 'https://images.unsplash.com/photo-1503095396549-807759245b35?auto=format&fit=crop&q=80&w=1740',
     clientName: 'Royal Theater Company',
     location: 'West End'
   },
@@ -40,7 +40,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 4,
     title: 'Annual Executive Retreat',
     category: 'corporate',
-    image: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1740',
+    image: 'https://images.unsplash.com/photo-1560523159-4a9692d222f9?auto=format&fit=crop&q=80&w=1740',
     clientName: 'Global Financial Group',
     location: 'Aspen, Colorado'
   },
@@ -48,7 +48,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 5,
     title: 'Jazz Legends Live',
     category: 'music',
-    image: 'https://images.unsplash.com/photo-1473177104440-ffee2f376098?auto=format&fit=crop&q=80&w=2731',
+    image: 'https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&q=80&w=2731',
     clientName: 'Blue Note Records',
     location: 'New Orleans'
   },
@@ -56,7 +56,7 @@ const portfolioItems: PortfolioItem[] = [
     id: 6,
     title: 'Product Launch Experience',
     category: 'corporate',
-    image: 'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1740',
+    image: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80&w=1740',
     clientName: 'Tech Innovations Inc.',
     location: 'San Francisco'
   }
